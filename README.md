@@ -1,2 +1,2 @@
 # belajar_gh
-repository belajar github
+repository belajar saya mencoba github
